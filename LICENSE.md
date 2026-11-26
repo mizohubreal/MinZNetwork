@@ -13,3 +13,4 @@ Sau khi đã lưu file `README.md` cùng với các file khác, mở CMD tại t
 git add .
 git commit -m "Add README"
 git push
+pip install rich pillow mss opencv-python
